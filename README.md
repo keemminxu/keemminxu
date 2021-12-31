@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=300&section=header&text=keemminxu&animation=fadeIn&desc=Welcome!%20Minsu's%20gitHub&descSize=15&descAlign=82&fontAlign=64&fontAlignY=40&fontSize=90&fontColor=faea5f)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=300&section=header&text=keemminxu&animation=fadeIn&desc=Welcome!%20Minsu's%20gitHub&descSize=15&descAlign=82&fontAlign=64&fontAlignY=40&fontSize=90&fontColor=0000000)
