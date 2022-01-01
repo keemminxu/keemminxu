@@ -31,6 +31,11 @@ Tech that I've used at least once.
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/keemminxu"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+   <a href="https://keemminxu.notion.site">
+    <img 
+        src="http://img.shields.io/badge/-Notion-00148C?style=flat&logo=Notion&link=https://keemminxu.notion.site"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&customColorList=2&height=130&animation=fadeIn)
    
