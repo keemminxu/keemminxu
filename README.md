@@ -1,11 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=230&section=header&text=It's%20Time%20To%20Build&animation=fadeIn&desc=Hello%20I'm%20Minsu%20Kim.&descSize=15&descAlign=82&fontAlign=60&fontAlignY=35&fontSize=60&fontColor=FFFEB5)
-<div>
-   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkeemminxu&count_bg=%233C94D7&title_bg=%23464D07&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-    <img 
-        src="https://img.shields.io/github/followers/keemminxu?label=My%20Followers&style=social"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</div>
-<h3 align="center"><b> 🎮 Hello World! 💻 </b></h3>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=230&section=header&text=It's%20Time%20To%20Build!&animation=fadeIn&desc=Hello%20I'm%20Minsu%20Kim.&descSize=15&descAlign=82&fontAlign=63&fontAlignY=35&fontSize=60&fontColor=FFFEB5)
+<h3 align="center"><b> 🎮 Beginning UE4 Developer 💻 </b></h3>
 </br>
 <p align="center">
 언리얼 엔진과 C++를 활용하는 게임 클라이언트 개발자 김민수입니다.
@@ -38,3 +32,10 @@ Tech that I've used at least once
 </a>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&customColorList=2&height=230&animation=fadeIn)
+   
+   <div>
+   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkeemminxu&count_bg=%233C94D7&title_bg=%23464D07&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+    <img 
+        src="https://img.shields.io/github/followers/keemminxu?label=My%20Followers&style=social"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</div>
