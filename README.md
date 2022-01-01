@@ -5,12 +5,12 @@
         src="https://img.shields.io/github/followers/keemminxu?label=My%20Followers&style=social"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
-
-<h2 align="center"><b> 🎮 UE4 Programmer 💻 </b></h2>
+<h3 align="center"><b> 🎮 Hello World! 💻 </b></h3>
 </br>
 <p align="center">
-게임 클라이언트 개발자 김민수입니다. 기획도 병행하며 메타버스 플랫폼에 관심이 많습니다. 😁
-</br>
+언리얼 엔진과 C++를 활용하는 게임 클라이언트 개발자 김민수입니다.
+   </br>
+기획도 병행하며 메타버스 플랫폼에 관심이 많습니다. 😁
 </br>
 </br>
 </br>
@@ -28,11 +28,13 @@ Tech that I've used at least once
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp</p>
-
-
+</br>
+<h3 align="center"><b>... </b></h3>
 <p align="center">
 <a href="https://instagram.com/keemminxu">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/keemminxu"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&customColorList=2&height=230&animation=fadeIn)
