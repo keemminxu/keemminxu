@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=230&section=header&text=Hi!%20%20There👋&animation=fadeIn&desc=I'm%20Minsu%20Kim.&descSize=15&descAlign=85&fontAlign=75&fontAlignY=35&fontSize=60&fontColor=FFFEB5)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=230&section=header&text=Hi!%20%20There👋&animation=fadeIn&desc=I'm%20Minsu%20Kim.&descSize=15&descAlign=70&fontAlign=50&fontAlignY=35&fontSize=60&fontColor=FFFEB5)
 <h3 align="center"><b> 🎮 UE4 Developer 💻 </b></h3>
 </br>
 <p align="center">
