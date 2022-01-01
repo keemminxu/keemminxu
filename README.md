@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=230&section=header&text=It's%20Time%20To%20Build!&animation=fadeIn&desc=Hello%20I'm%20Minsu%20Kim.&descSize=15&descAlign=82&fontAlign=63&fontAlignY=35&fontSize=60&fontColor=FFFEB5)
-<h3 align="center"><b> 🎮 Beginning UE4 Developer 💻 </b></h3>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=230&section=header&text=Hi!%20%20There👋&animation=fadeIn&desc=I'm%20Minsu%20Kim.&descSize=15&descAlign=70&fontAlign=63&fontAlignY=35&fontSize=60&fontColor=FFFEB5)
+<h3 align="center"><b> 🎮 UE4 Developer 💻 </b></h3>
 </br>
 <p align="center">
-언리얼 엔진과 C++를 활용하는 게임 클라이언트 개발자 김민수입니다.
+언리얼 엔진과 C++를 활용하는 게임 클라이언트 개발자입니다.
    </br>
 기획도 병행하며 메타버스 플랫폼에 관심이 많습니다. 😁
 </br>
