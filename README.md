@@ -32,7 +32,7 @@ Tech that I've used at least once.
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&customColorList=2&height=230&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&customColorList=2&height=130&animation=fadeIn)
    
    <div>
    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkeemminxu&count_bg=%233C94D7&title_bg=%23464D07&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
